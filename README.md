@@ -1,2 +1,2 @@
-# password-generator
-exe file probably only runnable with jdk or jre
+# PasswordGenerator
+.exe file probably only runnable with jdk or jre
